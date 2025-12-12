@@ -1,0 +1,8 @@
+{
+  "name": "AI Scientist Lab – ResearchGPT Explorer",
+  "description": "Version 2.0 Pro: A professional multimodal research engine for PDF analysis, experiment simulation, paper comparison, and scientific discovery using Gemini 3 Pro.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
